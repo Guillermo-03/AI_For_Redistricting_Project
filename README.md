@@ -66,7 +66,7 @@
 - Kelly C.  
 - Elyas Y.                                                                                                                                                                         
             
-  ## Notes                                                                                                                                                                                  
-  - At least 2 election datasets are used to strengthen analysis
-  - Chains are run long enough to ensure convergence                                                                                                                                                   
-  - Focus is on comparing observed outcomes to neutral baselines
+## Notes                                                                                                                                                                                  
+ - At least 2 election datasets are used to strengthen analysis
+ - Chains are run long enough to ensure convergence                                                                                                                                                   
+ - Focus is on comparing observed outcomes to neutral baselines
