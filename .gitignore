@@ -32,6 +32,11 @@ dist/
 # Claude
 .claude/
 
-# Data directories (shapefiles are too large)                                                                                                                                          
-data/raw/                                                                                                                                                                                            
-data/processed/
+# Raw shapefiles are too large for GitHub — place them in data/raw/<category>/
+data/raw/census/
+data/raw/election/
+data/raw/districts/
+
+# Ensemble outputs can be large — keep locally, push selectively
+outputs/results/*.json
+outputs/results/*.csv
