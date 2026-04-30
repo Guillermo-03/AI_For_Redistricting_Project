@@ -14,7 +14,7 @@ https://redistrictingdatahub.org/dataset/pennsylvania-block-pl-94171-2020-by-tab
 
 **2020 General Election Precincts (State Senate Split)**
 2020 presidential results (Biden/Trump) on 2020 precinct boundaries, split by state senate district.
-https://redistrictingdatahub.org/dataset/2020-pennsylvania-general-election-precinct-and-election-results/
+https://redistrictingdatahub.org/dataset/vest-2020-pennsylvania-precinct-and-election-results/
 
 **2016 General Election Precincts (VEST)**
 2016 presidential results (Clinton/Trump) on 2016 precinct boundaries.
