@@ -36,6 +36,9 @@ dist/
 data/raw/census/
 data/raw/election/
 data/raw/districts/
+data/cleaned/
+data/raw/
+data/ensemble_results/
 
 # Ensemble outputs can be large — keep locally, push selectively
 outputs/results/*.json
