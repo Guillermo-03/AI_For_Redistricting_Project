@@ -4,6 +4,10 @@ All data for this project was sourced from the Redistricting Data Hub (redistric
 
 ## What We Used
 
+**PA County Boundaries (2020 TIGER/Line)**
+National county shapefile filtered to Pennsylvania (STATEFP == '42'). Used for `nest_within_regions` in MAUP topology repair to prevent precincts from crossing county lines.
+https://www.census.gov/geographies/mapping-files/2020/geo/tiger-line-file.html
+
 **2022 PA State Senate Districts**
 The adopted redistricting plan we're analyzing for gerrymandering.
 https://redistrictingdatahub.org/dataset/2022-pennsylvania-state-senate-districts-approved-plan/

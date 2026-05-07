@@ -36,6 +36,7 @@ dist/
 data/raw/census/
 data/raw/election/
 data/raw/districts/
+data/raw/counties/
 data/cleaned/
 data/raw/
 data/ensemble_results/
